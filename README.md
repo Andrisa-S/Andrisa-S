@@ -15,6 +15,8 @@
 
 ### 🛠️ IDEs & Tools
 ![Eclipse](https://img.shields.io/badge/Eclipse-%230D1117.svg?style=for-the-badge&logo=eclipse&logoColor=%23D82C20)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-FF6600?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%230D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23D82C20)
 ![Git](https://img.shields.io/badge/Git-%23D82C20.svg?style=for-the-badge&logo=git&logoColor=white)
 
