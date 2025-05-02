@@ -2,33 +2,39 @@
 
 🎓 Computer Science Student | 💻 Developer in Training | 🚀 Tech Enthusiast
 
+<style>
+  :root {
+    --soft-black: #0D1117;
+    --dark-red: #D82C20;
+    --soft-red: #FF6B6B;
+    --light-text: #E6EDF3;
+  }
+</style>
+
 ## 🛠️ Tech Stack
 
 ### 📋 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrisa-S&layout=compact&theme=dracula&hide_border=true&exclude_repo=CursoArduino2024,ProgramacaoOrientadaAObjetosUFN)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrisa-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide=html,css)
 
 ### 🔧 Core Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23D82C20.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%230D1117.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23D82C20.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23FFD700)
 
 ### 🛠️ IDEs & Tools
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-FF6600?style=for-the-badge&logo=codeblocks&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-%230D1117.svg?style=for-the-badge&logo=eclipse&logoColor=%23D82C20)
+![VS Code](https://img.shields.io/badge/VS_Code-%230D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23D82C20)
+![Git](https://img.shields.io/badge/Git-%23D82C20.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌟 GitHub Analytics
-| ![Andrisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000) | ![GitHub Streak](https://streak-stats.demolab.com?user=Andrisa-S&theme=blood&hide_border=true&background=000000&fire=FF0000&ring=FF0000&stroke=FF0000&currStreakLabel=FFFFFF) |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=D82C20&text_color=E6EDF3&hide_title=false) | ![Streak](https://streak-stats.demolab.com?user=Andrisa-S&background=0D1117&fire=FF6B6B&ring=D82C20&stroke=D82C20&currStreakLabel=E6EDF3&hide_border=true) |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 📌 Highlighted Projects
-[![Curso Arduino 2024](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=CursoArduino2024&theme=dracula)](https://github.com/Andrisa-S/CursoArduino2024)
-[![POO UFN](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=ProgramacaoOrientadaAObjetosUFN&theme=dracula)](https://github.com/Andrisa-S/ProgramacaoOrientadaAObjetosUFN)
+[![Curso Arduino](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=CursoArduino2024&theme=dark&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3)](https://github.com/Andrisa-S/CursoArduino2024)
+[![POO UFN](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=ProgramacaoOrientadaAObjetosUFN&theme=dark&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3)](https://github.com/Andrisa-S/ProgramacaoOrientadaAObjetosUFN)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrisa_Dos_Santos-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrisa-dos-santos-silva-b8a56622a)
-[![Gmail](https://img.shields.io/badge/Email-andrisassilva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrisassilva@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Andrisa_S-181717?style=for-the-badge&logo=github)](https://github.com/Andrisa-S)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230D1117.svg?style=for-the-badge&logo=linkedin&logoColor=%23FF6B6B)](https://www.linkedin.com/in/andrisa-dos-santos-silva-b8a56622a)
+[![Gmail](https://img.shields.io/badge/Email-%23D82C20.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrisassilva@gmail.com)
