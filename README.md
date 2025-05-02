@@ -21,11 +21,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌟 GitHub Analytics
-| ![Andrisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&theme=dracula&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=Andrisa-S&theme=dracula&hide_border=true) |
-|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| ![Andrisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000) | ![GitHub Streak](https://streak-stats.demolab.com?user=Andrisa-S&theme=blood&hide_border=true&background=000000&fire=FF0000&ring=FF0000&stroke=FF0000&currStreakLabel=FFFFFF) |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 
 ## 📌 Highlighted Projects
-[![Curso Arduino 2024](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=CursoArdino2024&theme=dracula)](https://github.com/Andrisa-S/CursoArduino2024)
+[![Curso Arduino 2024](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=CursoArduino2024&theme=dracula)](https://github.com/Andrisa-S/CursoArduino2024)
 [![POO UFN](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=ProgramacaoOrientadaAObjetosUFN&theme=dracula)](https://github.com/Andrisa-S/ProgramacaoOrientadaAObjetosUFN)
 
 ## 📫 Let's Connect
