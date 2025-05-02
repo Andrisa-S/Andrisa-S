@@ -5,7 +5,7 @@
 ## 🛠️ Tech Stack
 
 ### 📋 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrisa-S&layout=compact&theme=dracula&hide_border=true&exclude_repo=CursoArdino2024,ProgramacaoOrientadaAObjetosUFN)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrisa-S&layout=compact&theme=dracula&hide_border=true&exclude_repo=CursoArduino2024,ProgramacaoOrientadaAObjetosUFN)
 
 ### 🔧 Core Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,7 +25,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 
 ## 📌 Highlighted Projects
-[![Curso Arduino 2024](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=CursoArdino2024&theme=dracula)](https://github.com/Andrisa-S/CursoArdino2024)
+[![Curso Arduino 2024](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=CursoArdino2024&theme=dracula)](https://github.com/Andrisa-S/CursoArduino2024)
 [![POO UFN](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=ProgramacaoOrientadaAObjetosUFN&theme=dracula)](https://github.com/Andrisa-S/ProgramacaoOrientadaAObjetosUFN)
 
 ## 📫 Let's Connect
