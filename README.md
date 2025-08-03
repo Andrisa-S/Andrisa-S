@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-D82C20?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌟 GitHub Analytics
-| ![Detailed Stats](https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=D82C20&text_color=E6EDF3&hide=issues&custom_title=My%20Stats) |
+| ![Detailed Stats](https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=D82C20&text_color=E6EDF3&hide=issues&custom_title=My%20Stats)
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 📌 Featured Projects
