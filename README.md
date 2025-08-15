@@ -11,7 +11,7 @@
 ![Java](https://img.shields.io/badge/Java-D82C20?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-D82C20?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-D82C20?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🛠️ Development Tools
 ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=D82C20)
