@@ -25,7 +25,7 @@
 
 ## 📌 Featured Projects
 [![OOP University](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=ProgramacaoOrientadaAObjetosUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/ProgramacaoOrientadaAObjetosUFN)
-[![LDS University](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=CursoArduino2024&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/LaboratorioDesenvolvimentoSoftwareUFN)
+[![LDS University](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=LaboratorioDesenvolvimentoSoftwareUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/LaboratorioDesenvolvimentoSoftwareUFN)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6B6B)](https://linkedin.com/in/andrisa-dos-santos-silva-b8a56622a)
