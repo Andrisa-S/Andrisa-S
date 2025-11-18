@@ -24,8 +24,8 @@
 | ![Detailed Stats](https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=D82C20&text_color=E6EDF3&hide=issues&custom_title=My%20Stats)
 
 ## 📌 Featured Projects
-[![Arduino Course](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=CursoArduino2024&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/CursoArduino2024)
 [![OOP University](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=ProgramacaoOrientadaAObjetosUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/ProgramacaoOrientadaAObjetosUFN)
+[![LDS University](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=CursoArduino2024&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/LaboratorioDesenvolvimentoSoftwareUFN)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6B6B)](https://linkedin.com/in/andrisa-dos-santos-silva-b8a56622a)
