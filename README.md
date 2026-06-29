@@ -22,10 +22,10 @@ I am seeking opportunities to apply my knowledge in software development and tec
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=D82C20)
 ![C](https://img.shields.io/badge/C-D82C20?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-D82C20?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=D82C20)
-![JavaScript](https://img.shields.io/badge/JavaScript-D82C20?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-D82C20?style=for-the-badge&logo=html&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=D82C20)
+![C#](https://img.shields.io/badge/C%23-D82C20?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=D82C20)
+![HTML](https://img.shields.io/badge/HTML-D82C20?style=for-the-badge&logo=html5&logoColor=white)
 ![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=D82C20)
 
 ### 🗄️ Databases
@@ -46,10 +46,10 @@ I am seeking opportunities to apply my knowledge in software development and tec
 ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=D82C20)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-D82C20?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-0D1117?style=for-the-badge&logo=apachenetbeanside&logoColor=D82C20)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=D82C20)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-D82C20?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-0D1117?style=for-the-badge&logo=codeblocks&logoColor=D82C20)
-![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=D82C20)
-![Git](https://img.shields.io/badge/Git-D82C20?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-D82C20?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=D82C20)
 
 ---
 
@@ -62,18 +62,18 @@ I am seeking opportunities to apply my knowledge in software development and tec
 
 ## 📌 Featured Projects
 
-[![Data Structures: Searching and Sorting](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=ProgramacaoOrientadaAObjetosUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/PesquisaEOrdenacaoUFN)
+[![Data Structures: Searching and Sorting](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=PesquisaEOrdenacaoUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/PesquisaEOrdenacaoUFN)
 [![Software Engineering Lab](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=LaboratorioDesenvolvimentoSoftwareUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/LaboratorioDesenvolvimentoSoftwareUFN)
 
 ---
 
 ## 🌍 Languages
 
-| Language   | Level             |
-|------------|-------------------|
-| 🇧🇷 Português | Native            |
-| 🇺🇸 English   | Advanced          |
-| 🇪🇸 Español   | Intermediate     |
+| Language      | Level        |
+|---------------|--------------|
+| 🇧🇷 Português  | Native       |
+| 🇺🇸 English    | Advanced     |
+| 🇪🇸 Español    | Intermediate |
 
 ---
 
