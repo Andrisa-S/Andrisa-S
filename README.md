@@ -20,12 +20,12 @@ I am seeking opportunities to apply my knowledge in software development and tec
 
 ### 🔧 Core Technologies
 
-![Java](https://img.shields.io/badge/Java-D82C20?style=for-the-badge&logo=openjdk&logoColor=D82C20)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=D82C20)
+![C](https://img.shields.io/badge/C-D82C20?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-D82C20?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=D82C20)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D82C20?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-D82C20?style=for-the-badge&logo=html&logoColor=white)
 ![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=D82C20)
 
 ### 🗄️ Databases
