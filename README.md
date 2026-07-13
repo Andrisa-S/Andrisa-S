@@ -16,7 +16,9 @@ I'm driven by the challenge of building robust, secure, and efficient solutions,
 
 ### 📋 Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrisa-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide=html,css&card_width=300)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrisa-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide=html,css" alt="Top Languages" />
+</p>
 
 ### 🔧 Core Technologies
 
@@ -55,18 +57,18 @@ I'm driven by the challenge of building robust, secure, and efficient solutions,
 
 ## 🌟 GitHub Analytics
 
-| ![Andrisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=D82C20&text_color=E6EDF3&hide=issues&custom_title=My%20Stats) |
-|---|
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=D82C20&text_color=E6EDF3&hide=issues&custom_title=My%20Stats" alt="GitHub Stats" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-[![Dubbio - Movie & Series Picker](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=dubbio&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true&description_lines_count=2)](https://github.com/Andrisa-S/dubbio)
-[![Data Structures: Searching and Sorting](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=PesquisaEOrdenacaoUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true&description_lines_count=2)](https://github.com/Andrisa-S/PesquisaEOrdenacaoUFN)
-
-[![Software Engineering Lab](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=LaboratorioDesenvolvimentoSoftwareUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true&description_lines_count=2)](https://github.com/Andrisa-S/LaboratorioDesenvolvimentoSoftwareUFN)
-[![Museu Treze de Maio - Outreach Project](https://github-readme-stats.vercel.app/api/pin/?username=MatheusPichler88&repo=Projeto-Museu-Treze-De-Maio&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true&description_lines_count=2)](https://github.com/MatheusPichler88/Projeto-Museu-Treze-De-Maio)
+- **[🎲 Dubbio](https://github.com/Andrisa-S/dubbio)** - A website to create, organize, and randomly pick movies and series when you can't decide what to watch. [Live demo](https://dubbio.lovable.app/)
+- **[🔍 Data Structures: Searching and Sorting](https://github.com/Andrisa-S/PesquisaEOrdenacaoUFN)** - Implementations of search and sorting algorithms in Java.
+- **[💻 Software Engineering Lab](https://github.com/Andrisa-S/LaboratorioDesenvolvimentoSoftwareUFN)** - Projects from the Software Development Lab course.
+- **[🏛️ Museu Treze de Maio](https://github.com/MatheusPichler88/Projeto-Museu-Treze-De-Maio)** - Outreach project for the collection of Museu Treze de Maio.
 
 ---
 
