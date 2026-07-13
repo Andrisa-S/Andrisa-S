@@ -16,9 +16,7 @@ I'm driven by the challenge of building robust, secure, and efficient solutions,
 
 ### 📋 Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrisa-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide=html,css" alt="Top Languages" />
-</p>
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrisa-S&theme=github_dark)
 
 ### 🔧 Core Technologies
 
@@ -57,9 +55,7 @@ I'm driven by the challenge of building robust, secure, and efficient solutions,
 
 ## 🌟 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=D82C20&text_color=E6EDF3&hide=issues&custom_title=My%20Stats" alt="GitHub Stats" />
-</p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrisa-S&theme=github_dark)
 
 ---
 
