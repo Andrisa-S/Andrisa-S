@@ -1,14 +1,14 @@
 # Hi there, I'm Andrisa! 👋
 
-🎓 Computer Science Student @ UFN | 💻 Developer in Training |💼 Apple Technical Intern @ iHelpU | 🚀 Tech Enthusiast
+🎓 Computer Science Student @ UFN | 💻 Back-end Developer in Training | 🚀 Tech Enthusiast
 
 ## 👩‍💻 About Me
 
-I am a 6th-semester Computer Science student at UFN and an Apple technical intern at iHelpU.
+I am a 6th-semester Computer Science student at UFN, with a solid background in research, specialized technical support, and technological development. I'm currently transitioning my career toward opportunities focused on Back-end Development, Databases, or Digital Security.
 
-My background includes previous experience as a FAPERGS scholarship holder in applied technology research, as well as additional training in programming, web development, and being a member of the UFNBotz robotics team. As a Scientific Initiation scholarship holder at ITEC Park - the university's Technological Park, I worked on the development of projects involving 3D modeling, 3D printing, laser cutting, Arduino, and robotics, integrating technology and innovation.
+My professional experience includes working as an Apple Technical Assistant at iHelpU, where I honed critical skills in technical support, hardware and software diagnostics, and customer service excellence. Within the academic and innovation ecosystem, I worked as a Scientific Initiation scholarship holder at ITEC Park (UFN's Technological Park) and as a member of the UFNBotz robotics team. In these opportunities, I led and integrated applied technology projects involving 3D modeling and printing, laser cutting, Arduino, and robotics.
 
-I am seeking opportunities to apply my knowledge in software development and technological prototyping, with an interest in projects that combine creativity, innovation, and technology.
+I'm driven by the challenge of building robust, secure, and efficient solutions, combining my background in prototyping and programming logic with software engineering best practices.
 
 ---
 
@@ -55,15 +55,18 @@ I am seeking opportunities to apply my knowledge in software development and tec
 
 ## 🌟 GitHub Analytics
 
-| ![Detailed Stats](https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=D82C20&text_color=E6EDF3&hide=issues&custom_title=My%20Stats) |
+| ![Andrisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrisa-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=D82C20&text_color=E6EDF3&hide=issues&custom_title=My%20Stats) |
 |---|
 
 ---
 
 ## 📌 Featured Projects
 
-[![Data Structures: Searching and Sorting](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=PesquisaEOrdenacaoUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/PesquisaEOrdenacaoUFN)
-[![Software Engineering Lab](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=LaboratorioDesenvolvimentoSoftwareUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true)](https://github.com/Andrisa-S/LaboratorioDesenvolvimentoSoftwareUFN)
+[![Dubbio - Movie & Series Picker](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=dubbio&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true&description_lines_count=2)](https://github.com/Andrisa-S/dubbio)
+[![Data Structures: Searching and Sorting](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=PesquisaEOrdenacaoUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true&description_lines_count=2)](https://github.com/Andrisa-S/PesquisaEOrdenacaoUFN)
+
+[![Software Engineering Lab](https://github-readme-stats.vercel.app/api/pin/?username=Andrisa-S&repo=LaboratorioDesenvolvimentoSoftwareUFN&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true&description_lines_count=2)](https://github.com/Andrisa-S/LaboratorioDesenvolvimentoSoftwareUFN)
+[![Museu Treze de Maio - Outreach Project](https://github-readme-stats.vercel.app/api/pin/?username=MatheusPichler88&repo=Projeto-Museu-Treze-De-Maio&bg_color=0D1117&title_color=FF6B6B&text_color=E6EDF3&hide_border=true&description_lines_count=2)](https://github.com/MatheusPichler88/Projeto-Museu-Treze-De-Maio)
 
 ---
 
